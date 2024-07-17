@@ -1,0 +1,26 @@
+first image to predict
+actual label: Late_blight
+1/1 ━━━━━━━━━━━━━━━━━━━━ 1s 594ms/step
+predicted label: Late_blight //  sample output
+
+
+Epoch 1/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 164s 3s/step - accuracy: 0.4377 - loss: 0.9632 - val_accuracy: 0.7188 - val_loss: 0.8791
+Epoch 2/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 121s 2s/step - accuracy: 0.5947 - loss: 0.8577 - val_accuracy: 0.6250 - val_loss: 0.8367
+Epoch 3/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 128s 2s/step - accuracy: 0.7486 - loss: 0.5851 - val_accuracy: 0.7500 - val_loss: 0.4918
+Epoch 4/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 127s 2s/step - accuracy: 0.8174 - loss: 0.4282 - val_accuracy: 0.8438 - val_loss: 0.3120
+Epoch 5/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 106s 2s/step - accuracy: 0.8929 - loss: 0.2644 - val_accuracy: 0.9062 - val_loss: 0.2165
+Epoch 6/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 99s 2s/step - accuracy: 0.8988 - loss: 0.2408 - val_accuracy: 0.8438 - val_loss: 0.3646
+Epoch 7/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 97s 2s/step - accuracy: 0.8999 - loss: 0.2507 - val_accuracy: 0.8906 - val_loss: 0.2654
+Epoch 8/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 116s 2s/step - accuracy: 0.9237 - loss: 0.2119 - val_accuracy: 0.8698 - val_loss: 0.2665
+Epoch 9/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 120s 2s/step - accuracy: 0.9220 - loss: 0.1860 - val_accuracy: 0.8958 - val_loss: 0.1877
+Epoch 10/10
+54/54 ━━━━━━━━━━━━━━━━━━━━ 46763s 882s/step - accuracy: 0.9332 - loss: 0.1809 - val_accuracy: 0.9271 - val_loss: 0.1537
